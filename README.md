@@ -1,4 +1,4 @@
-Hi, my name is Leo, and I am currently a 5th year Commerce/CompSci student at UNSW.
+Hi, my name is Leo, and I am currently a 6th year Commerce/CompSci student at UNSW.
 
 
 <!---
